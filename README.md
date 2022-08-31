@@ -1,4 +1,4 @@
-** NOTE: The the latest version of these code is now hosted here https://github.com/bvoightlab/ColocQuiaL** 
+**NOTE: The the latest version of these code is now hosted here https://github.com/bvoightlab/ColocQuiaL** 
 
 In this repository you will find all of the code to generate dependency files and run the eQTL colocalizer pipline. Given a GWAS signal of your chosing this pipeline will run COLOC on your signal and all the GTEx v7 single-tissue eQTLs.
 
